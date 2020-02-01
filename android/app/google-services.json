@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918574081766",
+    "firebase_url": "https://socialquiz-41ffc.firebaseio.com",
+    "project_id": "socialquiz-41ffc",
+    "storage_bucket": "socialquiz-41ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918574081766:android:75309cc7c2e204ff477d27",
+        "android_client_info": {
+          "package_name": "tk.sanjaysoni.socialquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918574081766-7pnfqkvuhs0menbqq3vphdqrj74cbe20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD1VVrOcu0XOxJuEGIIrpabiEWo8vRHyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918574081766-7pnfqkvuhs0menbqq3vphdqrj74cbe20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
